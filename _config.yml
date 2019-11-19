@@ -112,9 +112,11 @@ author:
   bio              : "Software Developer Portfolio"
   location         : "Douala,Littoral"
   email            : "mbiwantarh@gmail.com"
-  website              : "https://www10.watchmovie.io/"
   github           : "mbiwantarh"
   linkedin         : "mbiwantarh"
+  twitter          : "mbiwantarh"
+  facebook         : "mbiwantarh"
+  instagram        : "mbiwantarh"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
